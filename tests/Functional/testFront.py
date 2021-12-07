@@ -47,7 +47,7 @@ class admin_is_ready(unittest.TestCase):
 # La première ligne à l'intérieur de cette méthode crée une référence locale à l'objet pilote créé dans la méthode setUp .
 
 #    def test_search_in_python_org(self):
-    def test_results(self):
+    def test_dftg_results(self):
         driver = self.driver
 
 # La méthode driver.get naviguera vers une page donnée par l'URL.
