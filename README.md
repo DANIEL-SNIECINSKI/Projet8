@@ -64,4 +64,3 @@ Automatiser l'empaquetage de l'application (build / packaging)
 Tester automatiquement les applications avant livraison
 
 
-
